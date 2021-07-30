@@ -5,7 +5,7 @@ function App() {
   return (
    <div>
      <p>
-       Hi, My name is Pappu
+       Hi, My name is Pappu...
      </p>
    </div>
   );
